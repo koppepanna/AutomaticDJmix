@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="16"><HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="23"><ENTRY MODIFIED_DATE="2014/5/4" MODIFIED_TIME="56854" AUDIO_ID="APwBNWZnd3ibzMu7u8esuqq7qr///9vd3N3KvL3szsvMurzN3Ny9y769z97u/r3M+8//3/7v/u/u///v////////3f7f/+///+/+zv/e///4i+7dzM3tt2yqu6qrzf///rzM3ty83d7e///9ve7v7MzMzO7+7O7/+9u/zf/+//3+7e7u//7v/+7/7//93d3+///u7u7M7+3P//6pllVTRUWdzM3czc3c3N3d3N7v////////////9zElZ4mIlqt4mams396f/+//3+/+3u7//f/////v/+3t3v7//+/v//7//f///8zN3cze3N3d3c3O3tupl2VUMzMhEQAAAAAAAA==" TITLE="（ソードアートオンライン）Crossing Field" ARTIST="Lisa"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Lisa/:（ソードアートオンライン）Crossing Field/:" FILE="01 （ソードアートオンライン）Crossing Field.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="1" TITLE="（ソードアートオンライン）Crossing Field"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Other" COMMENT="Sword Art Online OP01" COVERARTID="053/VNATYWBR1U0I2C2NYTMKBA4R4N0A" KEY="12d" PLAYCOUNT="26" PLAYTIME="252" PLAYTIME_FLOAT="251.507" IMPORT_DATE="2015/5/28" LAST_PLAYED="2014/7/26" FLAGS="14" FILESIZE="9952"></INFO>
+<TEMPO BPM="179.003" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.639822" PERCEIVED_DB="-1.80181" ANALYZED_DB="-3.66178"></LOUDNESS>
+<MUSICAL_KEY VALUE="5"></MUSICAL_KEY>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="515.193" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1185.96" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="6549" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/5/1" MODIFIED_TIME="50698" AUDIO_ID="ARoAABVoqImYmIu87N7P/v////if////////////////hmZmZmj/iOaP///////////////////////////////////4jf///////////////////////////////////////////////b/L+6/f////////////////////////x6//////////////////////////////////////vv/////////////////////////6mZh3eIerz8z93+/////////////////////////////////////////////////////////////////////////qdmVDIhEAAAAAAA==" TITLE="（アクセルワールド）-Unfinished-" ARTIST="Kotoko"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Kotoko/:（アクセルワールド）-Unfinished-/:" FILE="01 （アクセルワールド）-Unfinished-.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="1" TITLE="（アクセルワールド）-Unfinished-"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Anime" COMMENT="Accel World ED01" COVERARTID="005/FAKQJRBUZ0N1IDUIL3F3ANMXGHAD" KEY="11d" PLAYCOUNT="19" PLAYTIME="283" PLAYTIME_FLOAT="282.018" IMPORT_DATE="2015/5/28" LAST_PLAYED="2014/6/7" RELEASE_DATE="2012/1/1" FLAGS="12" FILESIZE="11112"></INFO>
+<TEMPO BPM="146.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.21525" PERCEIVED_DB="-3.5704" ANALYZED_DB="-3.85002"></LOUDNESS>
+<MUSICAL_KEY VALUE="10"></MUSICAL_KEY>
+<CUE_V2 NAME="Beat Marker" DISPL_ORDER="0" TYPE="4" START="2692.1" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="4335.93" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="101322" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/5/1" MODIFIED_TIME="50710" AUDIO_ID="AT4Gu6rf//3//r3//t/+//////7t7/7u7v//63uFurtq7/7NzN/t7e3v/9/////+////////////////////////////////////////////////7e7u//7u3rzu3d7t///////+///////////////////v/////////////////////////////////////+vf/+///+7u7v////////////////+1MiIhE1rLy5mby6uqqrqbu5y8vLzt22RVNf/v////oz7//////////////////////////////v////////////////////////7u3//Xq1ur21MhEAAAAA==" TITLE="（屍鬼）カレンデュラレクイエム" ARTIST="kanon×kanon"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:kanon×kanon/:（屍鬼）カレンデュラレクイエム/:" FILE="01 （屍鬼）カレンデュラレクイエム.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="1" TITLE="（屍鬼）カレンデュラレクイエム"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Other" COVERARTID="022/WE11CHDCD4RIEDPKQAPKCFZS5KWB" KEY="4m" PLAYCOUNT="9" PLAYTIME="319" PLAYTIME_FLOAT="318.041" IMPORT_DATE="2015/5/28" LAST_PLAYED="2014/4/24" RELEASE_DATE="2010/1/1" FLAGS="12" FILESIZE="12592"></INFO>
+<TEMPO BPM="139.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.832081" PERCEIVED_DB="-4.01643" ANALYZED_DB="-4.14225"></LOUDNESS>
+<MUSICAL_KEY VALUE="18"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="638.834" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="93210.9" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="100068" LEN="0" REPEATS="-1" HOTCUE="4"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="106925" LEN="0" REPEATS="-1" HOTCUE="3"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/5/1" MODIFIED_TIME="50718" AUDIO_ID="AO8AKtv/7Pv///7v/s3u3dzdzc3NzMus3Gm7rHqqzKqK3fru/9zu/ezu7u3e//2+z+/+7u3e/v7N//3//5W////+////3+3+////////7///7/3/7//////93f//7MvNzO7Nzcy6rd3/6svd7O7v/f///s/v783+/t/u7t///+3t//zdzt7v/uz//d7/+Gz////v///v/f/e/////////////+/+///////rzv//3t7u7u7d3e7f/////u7d3u7t3u/cjv7+3Nze/au5/u/sr////+///+///+/9/+7//+//////7cm7zf3MzMzM3d3d3MzbzLl2ZUMyERAAAAAAAA==" TITLE="（ガールス＆パンツァー）Dream Riser" ARTIST="ちょうちょ"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Choucho/:（ガールス＆パンツァー）Dream Riser/:" FILE="（ガールス＆パンツァー）Dream Riser.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TITLE="（ガールス＆パンツァー）Dream Riser"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Girls und Panzer OP01" COVERARTID="084/UGVFOLBCZERFVDTKDO5XBLF1HXBC" KEY="6d" PLAYCOUNT="40" PLAYTIME="239" PLAYTIME_FLOAT="238.968" IMPORT_DATE="2015/5/28" LAST_PLAYED="2015/4/4" RELEASE_DATE="2012/1/1" FLAGS="12" FILESIZE="9356"></INFO>
+<TEMPO BPM="164.997" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="0.451579" PERCEIVED_DB="-2.89245" ANALYZED_DB="-3.35175"></LOUDNESS>
+<MUSICAL_KEY VALUE="11"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1302.89" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="1660.74" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/5/1" MODIFIED_TIME="50718" AUDIO_ID="AOMAAiIzWru7rO7t393e/97t683+7//t7d3c3bvN3czN2aqZi7qcq6qcrMm6mr27rLyqiZq5nJy7ubmsrczN3My6uszM7sq8zLze//2t393t3s3O3N3czv//7+7v7szN3t//7t7////t7M3d3bzd3cze2qqqe7qqq5qru7m6irvbu62byZupnK3t26q93t3dvL3Lyqzdy7vMzcze7//7Q3y93tzezdze3cy7vMy97+3u/szN7e/+3b397//szdzMzMzdy97e7u7u3t26u726yayqvJqJuJzMzu/u3u/czd3P/93O/9///+3b3+3//t3MzN3MvN3dzN3crFAAAAAAAA==" TITLE="（ネギま！？）ハッピーマテリアル" ARTIST="Mahora Gakuen Chuutobu 2-A"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:相坂さよ、明石祐奈、朝倉和美、綾瀬夕映、和泉亜子、大河内アキラ/:（ネギま！？）ハッピーマテリアル/:" FILE="01 （ネギま！？）ハッピーマテリアル.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="1" TITLE="（ネギま！？）ハッピーマテリアル"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Other" COVERARTID="091/1SY454BLQMSJNCWTTWM1CAQGNKWD" KEY="7d" PLAYCOUNT="7" PLAYTIME="227" PLAYTIME_FLOAT="226.612" IMPORT_DATE="2015/5/28" LAST_PLAYED="2015/3/30" RELEASE_DATE="2005/1/1" FLAGS="12" FILESIZE="8908"></INFO>
+<TEMPO BPM="162.996" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.828432" PERCEIVED_DB="-1.89445" ANALYZED_DB="-1.9605"></LOUDNESS>
+<MUSICAL_KEY VALUE="6"></MUSICAL_KEY>
+<CUE_V2 NAME="Beat Marker" DISPL_ORDER="0" TYPE="4" START="1175.14" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/5/1" MODIFIED_TIME="50721" AUDIO_ID="ASItSvOv/f//////////////////////////////////////////vP3f////vfrf/6////7H7//////////////////////////////////////+/////+/u/t///////////+///////8z6z//9/9363/+P///91+//////////////////////////////////////////////bP////////////////////////yWaMiKh///////3////+YK/////////////////////////////////////////////////////////////////M/tuomGVUMhAAAAAAAAAA==" TITLE="（これはゾンビですか？オブザデッド）パショナート" ARTIST="Iori Nomizu"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Iori Nomizu/:（これはゾンビですか？オブザデッド）パショナート/:" FILE="01 （これはゾンビですか？オブザデッド）パショナート.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="1" TITLE="（これはゾンビですか？オブザデッド）パショナート"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COMMENT="Kore wa Zombie Desu ka? 2 OP01" COVERARTID="014/OQOU03BSB5XVDCFK1H12CLGSH3VB" KEY="11d" PLAYCOUNT="10" PLAYTIME="291" PLAYTIME_FLOAT="290.325" IMPORT_DATE="2015/5/28" LAST_PLAYED="2014/4/28" FLAGS="12" FILESIZE="11444"></INFO>
+<TEMPO BPM="141" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.330883" PERCEIVED_DB="-3.71234" ANALYZED_DB="-3.81555"></LOUDNESS>
+<MUSICAL_KEY VALUE="10"></MUSICAL_KEY>
+<CUE_V2 NAME="Beat Marker" DISPL_ORDER="0" TYPE="4" START="360.226" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="90573" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/10/11" MODIFIED_TIME="6858" AUDIO_ID="AJ4CiaiJiZupqImaqrmZeYmKqal6mZmrzMuamamqqpm6q7u6i7y7qrus3bvLqam4m8uauruqy7mc3Lqr2u7L3bvd3e2aq+3u7ZrM//+v//7e2nh4qqqqmpm8uquLmrmaiazbmbu8vMuqzLmZmZm6q5zLvLu4nM27rM7dzeyuzezam6//7/mbv//63//dzd3Jhzd2d4iJZnZnqYiZmIiKmIipmqu6zN3aqpi8u5qbqKy8mczZqb3O/c/a/v7vycve7//Yqv//+///7+25ne3P//7rm67u//ytv//53//v7ty5mYmImJmqmpiZqquqmKiaqpuqu7uXVERDMhERAAAAAA==" TITLE="（彼氏彼女の事情）夢の中へ " ARTIST="榎本温子, 鈴木千尋"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Compilations/:彼氏彼女の事情 Act 1.0/:" FILE="23 （彼氏彼女の事情）夢の中へ.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM OF_TRACKS="24" TRACK="23" TITLE="彼氏彼女の事情 Act 1.0"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Soundtrack" COVERARTID="025/ZYIOZYAG0GNXWD1QFQHQCFXAE1ZC" KEY="1m" PLAYCOUNT="35" PLAYTIME="158" PLAYTIME_FLOAT="157.545" IMPORT_DATE="2015/5/28" LAST_PLAYED="2014/10/11" RELEASE_DATE="1998/1/1" FLAGS="12" FILESIZE="6256"></INFO>
+<TEMPO BPM="153.023" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.317605" PERCEIVED_DB="-0.815135" ANALYZED_DB="-0.925348"></LOUDNESS>
+<MUSICAL_KEY VALUE="21"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="452.164" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="6725.73" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="9862.51" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="38093.6" LEN="0" REPEATS="-1" HOTCUE="3"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/5/1" MODIFIED_TIME="50759" AUDIO_ID="ASgAABERACeHNFRmdTV0V1VTM2vLq8vMvcu7u7l3d3q6ury7upmqqbyprKu8qpu9yqqZqqvGF8yrzN3Mq7qry8uqvN3Lzc3NvLu7uru6maqqmamqmZmqqZiZqqmamau6q6q7qZq6m6mquqy7u6u7rKqqu82RS9zMvNzKu6m7vLu73rzNzczLzKvLqpvM3d3Lqqqqqqqquqq6qaqqqrqqqqmaq6mIdUQzIlQyElRERENKqpl2Ja67zMzbqsuryru6ve2rzN3M28qrzeurvd3Lq7qru9urvNzMzNzMvLvLu6q83M3MypmZmZmZmququ7vMzdurupdmZlVDMiERAAAAAA==" TITLE="（エレメントハンター）First Pain" ARTIST="石川智晶"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:石川智晶/:誰も教えてくれなかったこと/:" FILE="08 （エレメントハンター）First Pain.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM OF_TRACKS="12" TRACK="8" TITLE="誰も教えてくれなかったこと"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Soundtrack" COVERARTID="098/CDZOJJDGL40FBCIZIEQABCEMMPOD" KEY="4d" PLAYCOUNT="15" PLAYTIME="296" PLAYTIME_FLOAT="295.915" IMPORT_DATE="2015/5/28" LAST_PLAYED="2014/5/27" RELEASE_DATE="2009/1/1" FLAGS="12" FILESIZE="11584"></INFO>
+<TEMPO BPM="139.999" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.415629" PERCEIVED_DB="0.395947" ANALYZED_DB="0.42259"></LOUDNESS>
+<MUSICAL_KEY VALUE="9"></MUSICAL_KEY>
+<CUE_V2 NAME="Beat Marker" DISPL_ORDER="0" TYPE="4" START="3504.08" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="6932.68" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/5/1" MODIFIED_TIME="50761" AUDIO_ID="APkBv+y6rf7P////////////////////7//v3///////////3////////////////////////+///////////////////////////////////////////////////////////////////////f//////////7v////////////////////////7////////////v//////////////////////////////////////////7/////////////////////////////////////////////////////////////////////////////////////+pdkQzIhEQAAAAAAAA==" TITLE="（ラブライブ！）きっと青春が聞こえる " ARTIST="μ's"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Compilations/:（ラブライブ！）きっと青春が聞こえる/:" FILE="01 （ラブライブ！）きっと青春が聞こえる.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM OF_TRACKS="4" TRACK="1" TITLE="（ラブライブ！）きっと青春が聞こえる "></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COVERARTID="088/YOPQQ2DM4FUDODCHV5BNDTW0SL1D" KEY="1d" PLAYCOUNT="32" PLAYTIME="250" PLAYTIME_FLOAT="249.443" IMPORT_DATE="2015/5/28" LAST_PLAYED="2015/4/4" RELEASE_DATE="2013/1/1" FLAGS="12" FILESIZE="9860"></INFO>
+<TEMPO BPM="165.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.28957" PERCEIVED_DB="-5.18549" ANALYZED_DB="-5.6688"></LOUDNESS>
+<MUSICAL_KEY VALUE="0"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1191.73" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="2278.96" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="8100.78" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/5/1" MODIFIED_TIME="50771" AUDIO_ID="ARQYWf7d3dzczN/c3N3M3tvPzczN3N3ey9zMzc3rz/7u3e7v7f/t/t3e7v7///3v/t7e7d7+zu/+7//+z/7u7u3u/97//+///r//7e3dzMzO7czd3M3rvtzMzdvd3tzNzM7e7b7+3+7e7u3u/f7d7u/f///93/7u7/7u7d7v/+7//93+7e3v7u/u/v/////8///+7bzLzf3M3N2s91iXeGiZmZiad5iKu8uq7u7e//////z+y9zNyozN/Kvs783/7tus3uuY7P/L3+7+//7////u7v7u7c3//+7///3//u7u7u/u///+/v/9///+7/////3MzN3N7rqscQAAAAAAAA==" TITLE="（WORKING'!!）いつものようにLOVE＆PEACE！！" ARTIST="¤p³¾¹C©v¤Ó(CV¡GºÖ¤s¼í)&amp;¦õÃÃ¼í("><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Unknown Artist/:WORKING'！！ 1【完全生産限定版】特典CD OP&amp;ED「COOLISH WALK／いつものようにLOVE＆PEACE！！」/:" FILE="02 （WORKING'!!）いつものようにLOVE＆PEACE！！.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="2" TITLE="WORKING'！！ 1【完全生産限定版】特典CD OP&amp;ED「COOLISH WALK／いつものようにLOVE＆PEACE！！」"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Anime" COVERARTID="127/51O55UCZ1W5ZMASFSMN0DIAC0MEA" KEY="12d" PLAYCOUNT="5" PLAYTIME="277" PLAYTIME_FLOAT="276.402" IMPORT_DATE="2015/5/28" LAST_PLAYED="2014/4/24" RELEASE_DATE="2011/1/1" FLAGS="12" FILESIZE="10824"></INFO>
+<TEMPO BPM="132" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.04926" PERCEIVED_DB="-3.37489" ANALYZED_DB="-3.45685"></LOUDNESS>
+<MUSICAL_KEY VALUE="5"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="393.482" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="78575.6" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/5/1" MODIFIED_TIME="50771" AUDIO_ID="ARYBzLusurvszc7u/////////+/////////////////+7b7/7///3/7//83v/////e/////+7////+3v////////////////////////////////3////////////+/u/7zN//3////azv/////v////////////3v//////////////////////////////////7v/+/////////////////////////////////////////v///////////////////////////ZuJiaqpu/3e///////////////////////////////f////////////////2ph2esQQAAAAAA==" TITLE="（デート・ア・ライブ）デート・ア・ライブ" ARTIST="sweet ARMS"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:sweet ARMS/:デート・ア・ライブ OP「デート・ア・ライブ」【DVD付初回限定盤】/:" FILE="01 （デート・ア・ライブ）デート・ア・ライブ.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="1" TITLE="デート・ア・ライブ OP「デート・ア・ライブ」【DVD付初回限定盤】"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Anime" COVERARTID="053/VBAH5TCSQBPAXBCAEDD0AGNUAKCC" KEY="12d" PLAYCOUNT="18" PLAYTIME="279" PLAYTIME_FLOAT="278.178" IMPORT_DATE="2015/5/28" LAST_PLAYED="2014/10/12" RELEASE_DATE="2013/1/1" FLAGS="12" FILESIZE="10892"></INFO>
+<TEMPO BPM="178.003" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.67152" PERCEIVED_DB="-3.8005" ANALYZED_DB="-4.09815"></LOUDNESS>
+<MUSICAL_KEY VALUE="5"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="861.345" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="17040.8" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="89848.6" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/4/11" MODIFIED_TIME="8767" AUDIO_ID="APECZmVmVVVVZV//////////////////7//d/c+8v97v7r/M7tz/7v7r/d373P7v/97tz+2//v///+///////+//7////+u//////////////////+///////+/////f3t/Oz/7//c/d//z+7////v///////+/+/////tr//////////////////u///////////////////////////////////////+2qy5hlSaqHVXq5hlOKu5VGz//u7////////////6v////////////////////+///////////////////9//iGVmeJdnZ5qXZmiZl2Z2ZlZlZUQhAAAA==" TITLE="（銀魂）ウォーアイニー" ARTIST="高橋瞳 x BEAT CRUSADERS"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Compilations/:銀魂 Best 2/:" FILE="06 （銀魂）ウォーアイニー.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM OF_TRACKS="17" TRACK="6" TITLE="銀魂 Best 2"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Soundtrack" COVERARTID="100/EHBYDOCALMIXZDFSNZGSCDG1Y11C" KEY="5d" PLAYCOUNT="47" PLAYTIME="242" PLAYTIME_FLOAT="241.371" IMPORT_DATE="2015/5/28" LAST_PLAYED="2015/4/18" RELEASE_DATE="2011/1/1" FLAGS="12" FILESIZE="9456"></INFO>
+<TEMPO BPM="131.998" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.692894" PERCEIVED_DB="-2.87625" ANALYZED_DB="-3.53295"></LOUDNESS>
+<MUSICAL_KEY VALUE="4"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="528.778" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="7801.6" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="15074.5" LEN="0" REPEATS="-1" HOTCUE="3"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="76893.6" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="80530" LEN="0" REPEATS="-1" HOTCUE="4"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/5/1" MODIFIED_TIME="50788" AUDIO_ID="ARkAeYdqqHaYnKmoy5maqqh7u8vf7N3Mu9/N7N/N3fzv6JiJvLu7y9u7vM26vNzd3d3bu8q6urzcvM28zc3t3LzdzLvO6+7e3N7cvMze3d3d7O/e7d7t3Ozf+7vu3uzt7t6szMvLq6qriYir3Lu8u7qrzduqy8y9zdy8y8u6u927vd3N3N3dy8zcy73dvN393e3M3M3dzdzdvd7u3e3d3u7/u83czN//7M3+/u7tu7zLvczcy8zKu8u+y7rMu7y7y8vN/+7dzMy8zM7+3szLvu7uzu3d3c/+3d3N3O7O7N7d7uzv+7vc3uzd7s3e3t7+/8qqvdze26doyFQxAAAAAA==" TITLE="（ローゼンメイデン）聖少女領域" ARTIST="ALI PROJECT"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:ALI PROJECT/:（ローゼンメイデン）聖少女領域/:" FILE="01 （ローゼンメイデン）聖少女領域.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="1" TITLE="（ローゼンメイデン）聖少女領域"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Anime" COVERARTID="079/PO1VXCAAFYJUUA4RL1ILC25KR0EA" KEY="1m" PLAYCOUNT="32" PLAYTIME="280" IMPORT_DATE="2015/5/28" LAST_PLAYED="2014/11/9" RELEASE_DATE="2007/1/1" FLAGS="12" FILESIZE="11080"></INFO>
+<TEMPO BPM="137" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.427226" PERCEIVED_DB="-1.3578" ANALYZED_DB="-1.60062"></LOUDNESS>
+<MUSICAL_KEY VALUE="21"></MUSICAL_KEY>
+<CUE_V2 NAME="Beat Marker" DISPL_ORDER="0" TYPE="4" START="1081.09" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="8088.39" LEN="0" REPEATS="-1" HOTCUE="3"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="16851.9" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="106191" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/5/1" MODIFIED_TIME="50791" AUDIO_ID="AO4Gve3e7+7+7+3t/+/vztzuuaqcmLuq7cu7vKqpzu3Mqcury67typv+3e3P/v3dzO7v/9/+/////t3t/////////+3v///////9////7+/+7///////7voiJDQyMzRDNTNEQzMjIiRDRFVDRVREVlVDSovtzv///+7t/+7/3e7O/+7u///97v/t3f/83e/f////2VZ2Z1RmR9zKqby6qs/sy5rdvLq+3buc/t7v//7szcv+7//P///////u7///24h2eGVUapmYdoiZhbzM3dqr3czu7///us7////+/v/+3////////+///////////////t7KmXd3ZUUwAAAAAA==" TITLE="（ef - a tale of memories）euphoric field" ARTIST="ＥＬＩＳＡ"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:ＥＬＩＳＡ/:rainbow pulsation ～THE BEST OF ELISA～/:" FILE="01 （ef - a tale of memories）euphoric field.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="1" TITLE="rainbow pulsation ～THE BEST OF ELISA～"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Pop" COVERARTID="019/TM341TDCO4ADGBL2QEX5AJBOYSCA" KEY="11m" PLAYCOUNT="9" PLAYTIME="238" PLAYTIME_FLOAT="237.74" IMPORT_DATE="2015/5/28" LAST_PLAYED="2014/4/28" RELEASE_DATE="2012/1/1" FLAGS="12" FILESIZE="9340"></INFO>
+<TEMPO BPM="150.001" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.875396" PERCEIVED_DB="-2.76062" ANALYZED_DB="-2.88642"></LOUDNESS>
+<MUSICAL_KEY VALUE="19"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="304.646" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="1104.64" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="7504.6" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/10/30" MODIFIED_TIME="62833" AUDIO_ID="AUkDRVVEMzR4nN3tzK7tzc3v7tu7vf/9y8vd7+3u3N3e7t7tzN3u/tzMzu//7Mu83N3N3Mya7t/93M3e/+7M3e/+7c3u/+7ty7zNzc3Lu7zd3bzM3M3t7e3N3e/+3MzO/+7MzN7v7uhqm8vMze3dvLvLnv7e7c3e7u7c3u3f7szd3v/tuVVjVnWWVkV5mpiXmZq7q6u73bve7tzMzN3q3/3LzO/v3bvN7u7d3M3f7v7u3M3e7/3Lqe7e/+3N3e/+3dzO/v7d3d7v7e/t3e7e/uzd7t3MzMu8qqmZme7cqZdCBFRERER1RERXWJiZiImZiZmYaFRDRER0MzRHUwAAAA==" TITLE="（IDOLM＠STER）THE IDOLM@STER"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Unknown Artist/:THE IDOLM＠STER BEST ALBUM MASTER OF MASTER/:" FILE="14 （IDOLM＠STER）THE IDOLM@STER.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM OF_TRACKS="17" TRACK="14" TITLE="THE IDOLM＠STER BEST ALBUM MASTER OF MASTER"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" COVERARTID="088/Y4X3DQBHLZS1FDVQNBQZBNUN2OKD" KEY="1m" PLAYCOUNT="8" PLAYTIME="330" PLAYTIME_FLOAT="329.456" IMPORT_DATE="2015/5/28" LAST_PLAYED="2014/12/21" FLAGS="12" FILESIZE="13344"></INFO>
+<TEMPO BPM="164.996" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.0532629" PERCEIVED_DB="0.162815" ANALYZED_DB="0.1714"></LOUDNESS>
+<MUSICAL_KEY VALUE="21"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="540.263" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="3449.42" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="79087.6" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="84905.9" LEN="0" REPEATS="-1" HOTCUE="3"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/12/21" MODIFIED_TIME="18238" AUDIO_ID="AOMABXdneIdmZoh2ZmiZiYmIiImJh4mIiJqoeZmZiIiJh4h4mJmJqpiHd3dmd3d3d3d3dmd3iYmYiZh3iYmIiImIeId6maqYmamGipmaeZqZmZiJmJiIiIiHiHiImYmqh5mJmZiImIiYiJmZmqqIh4d3dnd4h3Z2ZmZ3eJmYiJiHiJeIiImYh4l3mZmZeZmpZ5iZqIiamJmImomIiJiIiYd4iIiKmXmYmYiIiYiIeJiZmKqZh2ZniHZniZh3d4d3d3d2VmZ3eIh3ZWZmd2d4qZiYiIiYmIl4iImJqoiYmYmIiJiIiJiYmZqqiHd3d3d3d3d3d3h4d3dmhzEAAAAAAA==" TITLE="（VS騎士ラムネ&amp;40炎）未来形アイドル" ARTIST="氷上恭子 &amp; 宮村優子"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Compilations/:スターチャイルドSELECTION音楽編 [TV作品集] [Disc 1]/:" FILE="1-07 （VS騎士ラムネ&amp;40炎）未来形アイドル.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM OF_TRACKS="17" TRACK="7" TITLE="スターチャイルドSELECTION音楽編 [TV作品集] [Disc 1]"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Soundtrack" COVERARTID="079/PSD110DW2C53UCT0DFXYC0ZIRJBB" KEY="2m" PLAYCOUNT="35" PLAYTIME="228" PLAYTIME_FLOAT="227.004" IMPORT_DATE="2015/5/28" LAST_PLAYED="2014/12/21" RELEASE_DATE="1996/1/1" FLAGS="12" FILESIZE="8896"></INFO>
+<TEMPO BPM="158.206" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.0238343" PERCEIVED_DB="0.264124" ANALYZED_DB="0.310286"></LOUDNESS>
+<MUSICAL_KEY VALUE="16"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="1236.69" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="4270.71" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="96808.3" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="108944" LEN="0" REPEATS="-1" HOTCUE="3"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/5/16" MODIFIED_TIME="43076" AUDIO_ID="AQkFn/7du93e/bzO3eztl4e8yv/////+/97///7+3v7////v7v7c7////+7v7////////t//////////7//////////////////////////////////////////9rN3M/////////2///v///97////////////////d//////////3/////////////////////////////////7////////////////////////////+//7/////////////7//t7//v/////9d3zu////////////////////////////////////////3f////7e3N3//73v///UEQAAAAAAAA==" TITLE="（革命機ヴァルヴレイヴ）僕じゃない" ARTIST="Angela"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Angela/:Zero/:" FILE="02 （革命機ヴァルヴレイヴ）僕じゃない.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="2" TITLE="Zero"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="317000" COMMENT="Kakumeiki Valvrave ED01" COVERARTID="040/I35WAIA0ZBAJVBCGWK3SCDO5NWHB" KEY="12d" PLAYCOUNT="12" PLAYTIME="264" IMPORT_DATE="2015/5/28" LAST_PLAYED="2014/10/29" FLAGS="12" FILESIZE="10344"></INFO>
+<TEMPO BPM="138" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-1.67003" PERCEIVED_DB="-4.41125" ANALYZED_DB="-4.74044"></LOUDNESS>
+<MUSICAL_KEY VALUE="5"></MUSICAL_KEY>
+<CUE_V2 NAME="Beat Marker" DISPL_ORDER="0" TYPE="4" START="449.655" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="1319.22" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="91752.7" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="98709.2" LEN="0" REPEATS="-1" HOTCUE="4"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="105666" LEN="0" REPEATS="-1" HOTCUE="3"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/5/1" MODIFIED_TIME="50815" AUDIO_ID="APYJlqqpu83d3//////////////9rJnbrJq6q6m63e///////////////+/////////////////////////////////////////////////////////v//7//v/v6+7d2f/d3O7d3///////7//////////////////////////////////////////////////////////////////////////////////////////////s7Lv+/t3u/u7+7+///////////////////////////////////////////////////////////////////////////czLqGQyEQAAAA==" TITLE="（物語シリーズ）その声を覚えてる" ARTIST="河野マリナ"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:河野マリナ/:＜物語＞シリーズ セカンドシーズン ED2「その声を覚えてる」【DVD付初回生産限定盤】/:" FILE="01 （物語シリーズ）その声を覚えてる.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM OF_TRACKS="3" TRACK="1" TITLE="＜物語＞シリーズ セカンドシーズン ED2「その声を覚えてる」【DVD付初回生産限定盤】"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Anime" COVERARTID="015/PYVBC0AJHXYYYDPQVQMHD0W2HOOB" KEY="4d" PLAYCOUNT="25" PLAYTIME="247" PLAYTIME_FLOAT="246.465" IMPORT_DATE="2015/5/28" LAST_PLAYED="2015/2/15" RELEASE_DATE="2013/1/1" FLAGS="12" FILESIZE="9840"></INFO>
+<TEMPO BPM="170" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.529213" PERCEIVED_DB="-3.15851" ANALYZED_DB="-3.53673"></LOUDNESS>
+<MUSICAL_KEY VALUE="9"></MUSICAL_KEY>
+<CUE_V2 NAME="Beat Marker" DISPL_ORDER="0" TYPE="4" START="217.384" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="916.149" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="77158.6" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/9/21" MODIFIED_TIME="18702" AUDIO_ID="ARwIdqZ5aszLmqi7vdzHmpl2iIZpqLuJmKjLiHaKuVmrrHuqyt7u3d/t/v+8/7qarLy83LvNzaz//9jP//3//9//7+/rze///v///e//7+/////9a5mom7zc2oqaqZiMzP2bq8rsmrut3Iu8zPlsvP///f7N3v3N7bq6u8zM/bvOqe/8u4v//+///9/////bze///////////+7//u66llZVVlVVVWVWVWRnZlZDSuzMzMvMzby8zLurq8zf3q3O+7zf+93bvK7pvMzN/Mmuzf/8qtvcnd/tnP/7v//9/8vM7//u/+/d//3//+/+/veLi6i7zM3KqpqrzMtBAAAAAA==" TITLE="（キルラキル）ごめんねいいコじゃいられない" ARTIST="沢井美空"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:沢井美空/:キルラキル ED「ごめんね、いいコじゃいられない。」/:" FILE="01 （キルラキル）ごめんね、いいコじゃいられない。.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM OF_TRACKS="4" TRACK="1" TITLE="キルラキル ED「ごめんね、いいコじゃいられない。」"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Anime" COVERARTID="050/SRKHMPDRNY0BWDX020GTBQY22TVC" KEY="12m" PLAYCOUNT="53" PLAYTIME="285" PLAYTIME_FLOAT="284.082" IMPORT_DATE="2015/5/28" LAST_PLAYED="2015/5/20" RELEASE_DATE="2013/1/1" FLAGS="12" FILESIZE="11304"></INFO>
+<TEMPO BPM="155" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.473184" PERCEIVED_DB="-1.85377" ANALYZED_DB="-2.46375"></LOUDNESS>
+<MUSICAL_KEY VALUE="14"></MUSICAL_KEY>
+<CUE_V2 NAME="Beat Marker" DISPL_ORDER="0" TYPE="4" START="590.327" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/12/5" MODIFIED_TIME="62914" AUDIO_ID="AM0F3v3Lvv//7////f///+/+/+7///3v///////t////////7P///9///+z////////+///+///8rd//////////////////////7/////////7///7v///////93///3////v///t//7///3v7f//7////9z////v///+///+7//8vf/////+/////////v/////////+///////+///////////v///////////////////////////+///r7/////////////////////////7////////////////////////+7///7v///v/+/+3P/f/+/////bqoZDIQAAAA==" TITLE="（地球防衛企業ダイガード）路地裏の宇宙少年  ~アルバムミックス" ARTIST="ザ・コブラツイスターズ"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:ザ・コブラツイスターズ/:ザ・コブラツイスターズ  ゴールデンベスト/:" FILE="12 （地球防衛企業ダイガード）路地裏の宇宙少年  ~アルバムミックス.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM OF_TRACKS="15" TRACK="12" TITLE="ザ・コブラツイスターズ  ゴールデンベスト"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="J-Pop" COVERARTID="043/LND3UQDPQSR5VCNMGGLVCLBFO1MC" KEY="1d" PLAYCOUNT="46" PLAYTIME="205" IMPORT_DATE="2015/5/28" LAST_PLAYED="2015/2/15" RELEASE_DATE="2009/1/1" FLAGS="12" FILESIZE="8092"></INFO>
+<TEMPO BPM="170.362" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.927289" PERCEIVED_DB="-2.52446" ANALYZED_DB="-3.10084"></LOUDNESS>
+<MUSICAL_KEY VALUE="0"></MUSICAL_KEY>
+<CUE_V2 NAME="Beat Marker" DISPL_ORDER="0" TYPE="4" START="505.266" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="3322.79" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="63899.6" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="69534.7" LEN="0" REPEATS="-1" HOTCUE="3"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/5/1" MODIFIED_TIME="50929" AUDIO_ID="AO4ASXiXlnd4mbiZmsq6uM3v6u/v7c3e/97u3u39zu/////+//7f/dqmiam5mImYqpiam8maurqsyZu7rMmbvL3Ku87N7u/rmb7d2+3u3dzdzt6+/+7e3O7u3b3c3N7M7czcve3N7u7+/e7N2amZebupqoibq5iKq8ypqqvMzJvdut273Lzsq97s7d7sqv//3t7t7//u7v/+/////s//3dzv3u/9ze7/zv////7v7v/8///d/+///v/v/+3v/+3b////7///7v/+/////v///Ll3mGaqmqu2eal4eYWp3um7/+7f7/7v7+///u7v///t7///y6uUVVVERDMiIQAAAA==" TITLE="（DARKERTHANBLACK-流星の雙子-）ツキアカリのミチシルベ" ARTIST="ステレオポニー"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:ステレオポニー/:DARKER THAN BLACK -流星の雙子- OP「ツキアカリのミチシルベ」【期間生産限定アニメ盤】/:" FILE="01 （DARKERTHANBLACK-流星の雙子-）ツキアカリのミチシルベ.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM TRACK="1" TITLE="DARKER THAN BLACK -流星の雙子- OP「ツキアカリのミチシルベ」【期間生産限定アニメ盤】"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Anime" COVERARTID="123/1XH51FCOJZSEDBTN0T1EBEWTNAYB" KEY="4m" PLAYCOUNT="11" PLAYTIME="238" PLAYTIME_FLOAT="237.976" IMPORT_DATE="2015/5/28" LAST_PLAYED="2014/10/26" RELEASE_DATE="2009/1/1" FLAGS="12" FILESIZE="9316"></INFO>
+<TEMPO BPM="131.005" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.556165" PERCEIVED_DB="-3.13483" ANALYZED_DB="-3.43878"></LOUDNESS>
+<MUSICAL_KEY VALUE="18"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="253.831" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="2085.82" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="99639.3" LEN="0" REPEATS="-1" HOTCUE="3"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/5/1" MODIFIED_TIME="50937" AUDIO_ID="AVoCZ2dnd2i7qZqq3///////////7///////////7////e////3v/v/v///+/////////////////////////////////////////////////////////////////+7///////////7v///////v///////////////////////////////////////////////////+397t///+/////////////////////////v///////////////////////////////////////////////////////////////////////////////////////97u7XZlVWVDVUIhEQAAAA==" TITLE="（IDOLM@STER）M@STERPIECE" ARTIST="765PRO ALLSTARS"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:765PRO ALLSTARS/:M@STERPIECE/:" FILE="01 （IDOLM@STER）M@STERPIECE.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM OF_TRACKS="5" TRACK="1" TITLE="M@STERPIECE"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Anime" COVERARTID="076/M0XOG3AMYEIAVC3PBXOSACHJCMTD" KEY="5d" PLAYCOUNT="22" PLAYTIME="346" PLAYTIME_FLOAT="345.626" IMPORT_DATE="2015/5/28" LAST_PLAYED="2014/10/31" RELEASE_DATE="2014/1/1" FLAGS="12" FILESIZE="13684"></INFO>
+<TEMPO BPM="128.003" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.791603" PERCEIVED_DB="-3.79038" ANALYZED_DB="-4.11534"></LOUDNESS>
+<MUSICAL_KEY VALUE="4"></MUSICAL_KEY>
+<CUE_V2 NAME="Beat Marker" DISPL_ORDER="0" TYPE="4" START="836.786" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="6461.67" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="120829" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="135828" LEN="0" REPEATS="-1" HOTCUE="3"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2014/5/1" MODIFIED_TIME="50937" AUDIO_ID="AQ8CVmd3h3eZh3eJv////+////////+8u7nL3v////////////////3////f/v7d/t/////u3////O/f/v7+3+///////////////////////////////////v////////////wovMzKurvMrMm97////v///+79/////f///+///////////////////////////////////////////////////////////f/////////////////////////////XAZqsmqqbiNismczu////////7////////////////////////////+/////////////////////+20AAAA==" TITLE="（キルラキル）ambiguous" ARTIST="GARNiDELiA"><LOCATION DIR="/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:GARNiDELiA/:キルラキル OP2「ambiguous」【DVD付初回生産限定盤】/:" FILE="01 （キルラキル）ambiguous.mp3" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"></LOCATION>
+<ALBUM OF_TRACKS="4" TRACK="1" TITLE="キルラキル OP2「ambiguous」【DVD付初回生産限定盤】"></ALBUM>
+<MODIFICATION_INFO AUTHOR_TYPE="user"></MODIFICATION_INFO>
+<INFO BITRATE="320000" GENRE="Anime" COVERARTID="087/XWJFYFBF2ACSBCS254AZB0USJJFC" KEY="12d" PLAYCOUNT="37" PLAYTIME="272" PLAYTIME_FLOAT="271.308" IMPORT_DATE="2015/5/28" LAST_PLAYED="2015/4/20" RELEASE_DATE="2014/1/1" FLAGS="12" FILESIZE="10692"></INFO>
+<TEMPO BPM="178.002" BPM_QUALITY="100"></TEMPO>
+<LOUDNESS PEAK_DB="-0.952825" PERCEIVED_DB="-4.43727" ANALYZED_DB="-5.17726"></LOUDNESS>
+<MUSICAL_KEY VALUE="5"></MUSICAL_KEY>
+<CUE_V2 NAME="AutoGrid" DISPL_ORDER="0" TYPE="4" START="440.536" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="11564" LEN="0" REPEATS="-1" HOTCUE="2"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="16957.2" LEN="0" REPEATS="-1" HOTCUE="1"></CUE_V2>
+<CUE_V2 NAME="n.n." DISPL_ORDER="0" TYPE="0" START="95158.5" LEN="0" REPEATS="-1" HOTCUE="3"></CUE_V2>
+</ENTRY>
+</COLLECTION>
+<SETS ENTRIES="0"></SETS>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="FOLDER" NAME="過去のMIX"><SUBNODES COUNT="1"><NODE TYPE="FOLDER" NAME="アニディス 2014"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="アニディス外伝 4"><PLAYLIST ENTRIES="23" TYPE="LIST" UUID="26a1ad8c216e4230a4f3ea08b738d351"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Unknown Artist/:WORKING'！！ 1【完全生産限定版】特典CD OP&amp;ED「COOLISH WALK／いつものようにLOVE＆PEACE！！」/:02 （WORKING'!!）いつものようにLOVE＆PEACE！！.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:765PRO ALLSTARS/:M@STERPIECE/:01 （IDOLM@STER）M@STERPIECE.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Compilations/:銀魂 Best 2/:06 （銀魂）ウォーアイニー.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:ステレオポニー/:DARKER THAN BLACK -流星の雙子- OP「ツキアカリのミチシルベ」【期間生産限定アニメ盤】/:01 （DARKERTHANBLACK-流星の雙子-）ツキアカリのミチシルベ.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:石川智晶/:誰も教えてくれなかったこと/:08 （エレメントハンター）First Pain.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:kanon×kanon/:（屍鬼）カレンデュラレクイエム/:01 （屍鬼）カレンデュラレクイエム.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:ALI PROJECT/:（ローゼンメイデン）聖少女領域/:01 （ローゼンメイデン）聖少女領域.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Angela/:Zero/:02 （革命機ヴァルヴレイヴ）僕じゃない.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Iori Nomizu/:（これはゾンビですか？オブザデッド）パショナート/:01 （これはゾンビですか？オブザデッド）パショナート.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Kotoko/:（アクセルワールド）-Unfinished-/:01 （アクセルワールド）-Unfinished-.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:ＥＬＩＳＡ/:rainbow pulsation ～THE BEST OF ELISA～/:01 （ef - a tale of memories）euphoric field.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:沢井美空/:キルラキル ED「ごめんね、いいコじゃいられない。」/:01 （キルラキル）ごめんね、いいコじゃいられない。.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Compilations/:彼氏彼女の事情 Act 1.0/:23 （彼氏彼女の事情）夢の中へ.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Compilations/:スターチャイルドSELECTION音楽編 [TV作品集] [Disc 1]/:1-07 （VS騎士ラムネ&amp;40炎）未来形アイドル.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Unknown Artist/:THE IDOLM＠STER BEST ALBUM MASTER OF MASTER/:14 （IDOLM＠STER）THE IDOLM@STER.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Compilations/:（ラブライブ！）きっと青春が聞こえる/:01 （ラブライブ！）きっと青春が聞こえる.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:相坂さよ、明石祐奈、朝倉和美、綾瀬夕映、和泉亜子、大河内アキラ/:（ネギま！？）ハッピーマテリアル/:01 （ネギま！？）ハッピーマテリアル.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Choucho/:（ガールス＆パンツァー）Dream Riser/:（ガールス＆パンツァー）Dream Riser.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:河野マリナ/:＜物語＞シリーズ セカンドシーズン ED2「その声を覚えてる」【DVD付初回生産限定盤】/:01 （物語シリーズ）その声を覚えてる.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:sweet ARMS/:デート・ア・ライブ OP「デート・ア・ライブ」【DVD付初回限定盤】/:01 （デート・ア・ライブ）デート・ア・ライブ.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:GARNiDELiA/:キルラキル OP2「ambiguous」【DVD付初回生産限定盤】/:01 （キルラキル）ambiguous.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:Lisa/:（ソードアートオンライン）Crossing Field/:01 （ソードアートオンライン）Crossing Field.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="Macintosh HD/:Users/:kosukefukui/:Music/:iTunes/:iTunes Media/:Music/:ザ・コブラツイスターズ/:ザ・コブラツイスターズ  ゴールデンベスト/:12 （地球防衛企業ダイガード）路地裏の宇宙少年  ~アルバムミックス.mp3"></PRIMARYKEY>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</SUBNODES>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>

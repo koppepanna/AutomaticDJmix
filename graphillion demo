@@ -1,0 +1,12 @@
+from graphillion import GraphSet
+
+universe = [(u'東京'    , u'Shin,agawa',  6.8),
+            (u'Shin,agawa', u'Shinjuku' , 10.6),
+            (u'Shinjuku' , u'Ueno'     , 11.3),
+            (u'Ueno'     , u'東京'    ,  3.6),
+            (u'Tokyo'    , u'Yotsuya'  ,  6.6),
+            (u'Shibuya'    , u'Yokohama'  ,  6.6),
+            (u'Yotsuya'  , u'Shinjuku' ,  3.7)]
+GraphSet.set_universe(universe)
+
+paths = GraphSet.paths(u'東京', u'Shin,agawa')

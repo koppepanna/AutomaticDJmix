@@ -1,0 +1,341 @@
+a
+studentdata
+table(Dvds)
+table(Drink)
+summary(Drink)
+summary(a)
+a
+data(studentdata)
+table(Dvds)
+table(Drink)
+studentdata[1,]
+attach(studentdata)
+data(studentdata)
+table(Drink)
+table(Dvds)
+hist(Dvds)
+summary(Dvds)
+barplot(table(Dvds))
+p = seq(0,1,by 0.125)
+p = seq(0,1,by = 0.125)
+p
+p = seq(0,1,by = 0.125)
+prior = c(0.001,0.001,0.950,0.008,0.008,0.008,0.008,0.008,0.008)
+prior = prior/sum(prior)
+plot(p, prior ,type= "h", ylab = "Prior Probability")
+data = c(6,4)
+post = pdisc(p,prior,data)
+round(cbind(p,prior,data),2)
+round(cbind(p,prior,post),2)
+library(lattice)
+Prior = data.frame("Prior",p,prior)
+PRIOR = data.frame("Prior",p,prior)
+POST = data.frame("Posterior",p,post)
+names(PRIOR) = c("Type", "P" , "Probability")
+names(POST) = c("Type", "P" , "Probability")
+data = rbind(PRIOR,POST)
+xyplot(Probability ~ P|Type, data = data, layout = c(1,2), type ="h", lwd = 3, col = "black")
+curve(dbeta(x,1,1),from =0 ,to =1, xlab = "p", ylab ="density",lty= 1,lwd =4)#
+curve(dbeta(x,23,8),from =0 ,to =1, xlab = "p", ylab ="density",lty= 2,lwd =4)#
+legend(.7,4,c("Prior","Posterior"),lty = (2,1),lwd= (3,3))
+curve(dbeta(x,1,1),from =0 ,to =1, xlab = "p", ylab ="density",lty= 1,lwd =4)
+curve(dbeta(x,23,8),from =0 ,to =1, xlab = "p", ylab ="density",add = TRUE,lty= 2,lwd =4)
+quartz()
+curve(dbeta(x,23,8),from =0 ,to =1, xlab = "p", ylab ="density",lty= 2,lwd =4)
+curve(dbeta(x,1,1),from =0 ,to =1, xlab = "p", ylab ="density",lty= 1,lwd =4)#
+> #
+> curve(dbeta(x,23,8),from =0 ,to =1, xlab = "p", ylab ="density",add = TRUE,lty= 2,lwd =4)
+curve(dbeta(x,1,1),from =0 ,to =1, xlab = "p", ylab ="density",lty= 1,lwd =4)#
+ curve(dbeta(x,23,8),from =0 ,to =1, xlab = "p", ylab ="density",add = TRUE,lty= 2,lwd =4)
+curve(dbeta(x,23,8),from =0 ,to =1, xlab = "p", ylab ="density",lty= 2,lwd =4)
+curve(dbeta(x,1,1),from =0 ,to =1, xlab = "p", ylab ="density",add = TRUE,lty= 1,lwd =4)
+legend(0.1,4,c("Prior","Posterior"),add = TRUE,lty = (2,1),lwd= (3,3))
+legend(0.1,4,c("Prior","Posterior"),lty = (2,1),lwd= (3,3))
+legend(0.1,4,c("Prior","Posterior"),lty=(2,1),lwd=(3,3))
+legend(.1,4)
+legend
+library(legend)
+demo(legend)
+legend("topleft",c("Prior","Posterior"),lty = 1:2,lwd = 1:2)
+pred = pbetap(c(23,8),10,1:10)
+pred
+plot(pred)
+round(cbind(0:10,pred),3)
+round(cbind(1:10,pred),3)
+round(cbind(0:11,pred),3)
+round(cbind(0:10,pred),3)
+hist(pred)
+curve(histprior(x,0:10,pred),from = 0 , to =1 ,ylab = "posterior density",ylim = c(0,0.3))
+curve(histprior(x,0:10,pred),from = 0 , to =10 ,ylab = "posterior density",ylim = c(0,0.3))
+curve(histprior(p,0:10,pred),from = 0 , to =10 ,ylab = "posterior density",ylim = c(0,0.3))
+curve(histprior(x,0:10,pred),from = 0 , to =10 ,ylab = "posterior density", xlab = "p",ylim = c(0,0.3))
+curve(pred,from = 0 , to =10 ,ylab = "posterior density", xlab = "p",ylim = c(0,0.3))
+curve(pbetap(c(23,8),10,1:10),from = 0 , to =10 ,ylab = "posterior density", xlab = "p",ylim = c(0,0.3))
+curve(pred,from = 0 , to =10 ,ylab = "posterior density", xlab = "p",ylim = c(0,0.3))
+curve(histprior(x,0:10,pred),from = 0 , to =10 ,ylab = "posterior density", xlab = "p",ylim = c(0,0.3))
+p = rbeta(1000,23,8)
+y = rbinom(1000, 10 , p)
+table(y)
+y=y/sum(y)
+y
+p = rbeta(1000,23,8)#
+ y = rbinom(1000, 10 , p)#
+ table(y)
+freq =table(y)
+predprob = freq/sum(freq)
+dist = cbind(0:10,predprob)
+dist = cbind(2:10,predprob)
+dist
+curve(histprior(x,0:10,predprob),from = 0 , to = 10 ,ylab = "posterior density", xlab = "p",ylim = c(0,0.3))
+curve(histprior(x,2:10,predprob),from = 0 , to = 10 ,ylab = "posterior density", xlab = "p",ylim = c(0,0.3))
+curve(histprior(x,0:10,predprob),from = 0 , to = 10 ,ylab = "posterior density", xlab = "p",ylim = c(0,0.3))
+curve(histprior(x,2:10,predprob),from = 0 , to = 10 ,ylab = "posterior density", xlab = "p",ylim = c(0,0.3))
+curve(histprior(x,2:10,dist),from = 0 , to = 10 ,ylab = "posterior density", xlab = "p",ylim = c(0,0.3))
+curve(histprior(x,0:10,dist),from = 0 , to = 10 ,ylab = "posterior density", xlab = "p",ylim = c(0,0.3))
+curve(histprior(x,0:10,predprob),from = 0 , to = 10 ,ylab = "posterior density", xlab = "p",ylim = c(0,0.3))
+curve(histprior(x,0:10,predprob),from = 2 , to = 10 ,ylab = "posterior density", xlab = "p",ylim = c(0,0.3))
+curve(histprior(x,0:10,predprob),from = 0 , to = 10 ,ylab = "posterior density", xlab = "p",ylim = c(0,0.3))
+ys = as.integer(names(freq))
+curve(histprior(x,ys,predprob),from = 0 , to = 10 ,ylab = "posterior density", xlab = "p",ylim = c(0,0.3))
+curve(histprior(x,1:10,predprob),from = 0 , to = 10 ,ylab = "posterior density", xlab = "p",ylim = c(0,0.3))
+curve(histprior(x,0:10,predprob),from = 0 , to = 10 ,ylab = "posterior density", xlab = "p",ylim = c(0,0.3))
+theta = seq(-2,12, by = 0.1)
+theta
+?rep
+a = rep(1,10)
+a
+library(LearnBayes)
+p=seq(0,1,by=0.125) prior=c(0.001,0.001,0.95,0.008,0.008,0.008,0.008,0.008,0.008) plot(p,prior,type="h",ylab="Prior Probability")
+data=c(6,4) post=pdisc(p,prior,data) cbind(p,prior,post) round(cbind(p,prior,post),3)
+library(xtable) xtable(round(cbind(p,prior,post),3))
+library(lattice) PRIOR=data.frame("prior",p,prior) POST=data.frame("posterior",p,post) names(PRIOR)=c("Type","P","Probability") names(POST)=c("Type","P","Probability") data2=rbind(PRIOR,POST) xyplot(Probability~P|Type,data=data2,layout=c(1,2),type="h",lwd=3,col="black")
+Prior = data.frame("Prior",p,prior)#
+ PRIOR = data.frame("Prior",p,prior)#
+ POST = data.frame("Posterior",p,post)#
+ names(PRIOR) = c("Type", "P" , "Probability")#
+ names(POST) = c("Type", "P" , "Probability")#
+ data = rbind(PRIOR,POST)#
+ xyplot(Probability ~ P|Type, data = data, layout = c(1,2), type ="h", lwd = 3, col = "black")#
+ curve(dbeta(x,1,1),from =0 ,to =1, xlab = "p", ylab ="density",lty= 1,lwd =4)#
+ curve(dbeta(x,23,8),from =0 ,to =1, xlab = "p", ylab ="density",lty= 2,lwd =4)#
+ legend(.7,4,c("Prior","Posterior"),lty = (2,1),lwd= (3,3))
+Prior = data.frame("Prior",p,prior)#
+ PRIOR = data.frame("Prior",p,prior)#
+ POST = data.frame("Posterior",p,post)#
+ names(PRIOR) = c("Type", "P" , "Probability")#
+ names(POST) = c("Type", "P" , "Probability")#
+ data = rbind(PRIOR,POST)#
+ xyplot(Probability ~ P|Type, data = data, layout = c(1,2), type ="h", lwd = 3, col = "black")
+qbeta(c(0.05,0.95),23,8)
+round(qbeta(c(0.05,0.95),23,8),4)
+round(qbeta(c(0.05,0.95),23,8),3)
+1-pbeta(0.6,23,8)
+round(1-pbeta(0.6,23,8))
+round(1-pbeta(0.6,23,8),3)
+ps= rbeta(1000,,23,8)
+ps= rbeta(1000,23,8)
+ps
+pred = pbetap(c(23,8),10,1:10)
+cbind(0:10,pred)
+round(pred,3)
+cbind(0:10,round(pred,3))
+pred = pbetap(c(23,8),10,0:10)
+cbind(0:10,round(pred,3))
+theta<-seq(-2,12,by=0.1)y<-c(0,rep(3,2),rep(8,3),9,10,rep(11,2))
+y
+theta<-seq(-2,12,by=0.1)y<-c(0,rep(3,2),rep(8,3),9,10,rep(11,2))
+y
+post<-matrix(NA,ncol=10,nrow=length(theta))
+post
+for(i in 1:length(theta)){	post2[i,1]<-post[i,1]*post[i,2]*post[i,3]*post[i,4]*post[i,5]*post[i,6]*post[i,7]*post[i,8]*post[i,9]*post[i,10]}
+post<-matrix(NA,ncol=10,nrow=length(theta))for(j in 1:length(theta)){	for(i in 1:10){	post[j,i]<-1/(1+(y[i]-theta[j])^2)}}head(post)
+?head
+> post =matrix(NA,ncol=10,nrow=length(theta))#
+> for(j in 1:length(theta)){#
++ 	for(i in 1:10){#
++ 	post[j,i] = 1/(1+(y[i]-theta[j])^2)#
++ }#
++ }
+> post =matrix(NA,ncol=10,nrow=length(theta))#
+> for(j in 1:length(theta)){#
++ 	for(i in 1:10){#
++ 	post[j,i] = 1/(1+(y[i]-theta[j])^2) }#
+ }
+post<-matrix(NA,ncol=10,nrow=length(theta))for(j in 1:length(theta)){	for(i in 1:10){	post[j,i]<-1/(1+(y[i]-theta[j])^2)}}head(post)
+post = matrix(NA,ncol=10,nrow=length(theta))for(j in 1:length(theta)){	for(i in 1:10){	post[j,i] =1/(1+(y[i]-theta[j])^2)}}
+?pdf
+pos2 = matrix(NA,ncol=1,nrow=length(theta))for(i in 1:length(theta)){	post2[i,1]<-post[i,1]*post[i,2]*post[i,3]*post[i,4]*post[i,5]*post[i,6]*post[i,7]*post[i,8]*post[i,9]*post[i,10]}
+post2 = matrix(NA,ncol=1,nrow=length(theta))for(i in 1:length(theta)){	post2[i,1]<-post[i,1]*post[i,2]*post[i,3]*post[i,4]*post[i,5]*post[i,6]*post[i,7]*post[i,8]*post[i,9]*post[i,10]}
+pos2 = matrix(NA,ncol=1,nrow=length(theta))for(i in 1:length(theta)){	pos2[i,1] = pos1[i,1]*pos1[i,2]*pos1[i,3]*pos1[i,4]*pos1[i,5]*pos1[i,6]*pos1[i,7]*pos1[i,8]*pos1[i,9]*pos1[i,10]}
+pos1 = matrix(NA,ncol=10,nrow=length(theta))for(j in 1:length(theta)){	for(i in 1:10){	pos1[j,i] =1/(1+(y[i]-theta[j])^2)}}
+pos2 = matrix(NA,ncol=1,nrow=length(theta))for(i in 1:length(theta)){	pos2[i,1] = pos1[i,1]*pos1[i,2]*pos1[i,3]*pos1[i,4]*pos1[i,5]*pos1[i,6]*pos1[i,7]*pos1[i,8]*pos1[i,9]*pos1[i,10]}
+pos2<-pos2/sum(pos2)pos3<-cbind(theta,pos2)post3
+pos2<-pos2/sum(pos2)pos3<-cbind(theta,pos2)pos3
+plot(theta,pos2,type="h",ylab="Posterior Density",main="Posterior distribution of theta")
+dev.off()
+?dev.off
+plot(theta,pos2,type="h",ylab="Posterior Density",main="Posterior distribution of theta")
+plot(theta,pos3,type="h",ylab="Posterior Density",main="Posterior distribution of theta")
+pos2
+pos3
+> pos2 = matrix(NA,ncol=1,nrow=length(theta))#
+> for(i in 1:length(theta)){#
+ 	pos2[i,1] = pos1[i,1]*pos1[i,2]*pos1[i,3]*pos1[i,4]*pos1[i,5]*pos1[i,6]*pos1[i,7]*pos1[i,8]*pos1[i,9]*pos1[i,10]#
+ }
+> pos2 = matrix(NA,ncol=1,nrow=length(theta))#
+> for(i in 1:length(theta)){#
++ 	pos2[i,1] = pos1[i,1]*pos1[i,2]*pos1[i,3]*pos1[i,4]*pos1[i,5]*pos1[i,6]*pos1[i,7]*pos1[i,8]*pos1[i,9]*pos1[i,10]#
++ }
+> pos2 = matrix(NA,ncol=1,nrow=length(theta))#
+> for(i in 1:length(theta)){pos2[i,1] = pos1[i,1]*pos1[i,2]*pos1[i,3]*pos1[i,4]*pos1[i,5]*pos1[i,6]*pos1[i,7]*pos1[i,8]*pos1[i,9]*pos1[i,10]}
+pos2 = matrix(NA,ncol=1,nrow=length(theta))#
+ for(i in 1:length(theta)){pos2[i,1] = pos1[i,1]*pos1[i,2]*pos1[i,3]*pos1[i,4]*pos1[i,5]*pos1[i,6]*pos1[i,7]*pos1[i,8]*pos1[i,9]*pos1[i,10]}
+pos2
+Library(LearnBayes)
+library(LearnBayes)
+p = seq(0.05,0.95, by = 0.1)
+prior = c(1, 5.3 ,8 ,7.2 ,4.6,2.1 ,0.70,1 ,0 ,0)
+prior = pripr/sum(prior)
+prior = prior/sum(prior)
+prior
+plot(p , priortype= "h", ylab = "prior.probability")
+plot(p , prior,type= "h", ylab = "prior.probability")
+qurtz()
+Quartz()
+Quartz
+?quartz
+quartz()
+data = c(11,16)
+?pdisc
+post = (p,prior,data)
+post = pdisc(p,prior,data)
+plot(p,post,type ="h", ylab = "posterior.probability")
+library(LearnBayes)
+midpt= seq(.05,.95,0.1)
+midpt
+prior= c(1,5.2,8,7.2,4.6,2.1,.7,.1,0,0)
+prior = prior/sum(prior)
+curve(histprior(x,midpt,prior),0,1,ylab= "priordensity",ylim=(0,3)
+curve(histprior(x,midpt,prior),0,1,ylab= "priordensity",ylim=c(0,3))
+curve(histprior(x,midpt,prior),0,1,ylab= "priordensity",ylim=c(0,.3))
+curve(histprior(x,midpt,prior)*dbeta(x,s+1,f+1),0,1,ylab= "posteirodensity")
+s = 11
+f = 16
+curve(histprior(x,midpt,prior)*dbeta(x,s+1,f+1),0,1,ylab= "posteirodensity")
+P = seq(0,1,500)
+post = histprior(p,midpt,prior)
+p = seq(0,1,500)#
+post = histprior(p,midpt,prior)*dbeta(p,s+1,f+1),0,1,ylab= "posteirodensity")#
+post = post/sum(post)
+p = seq(0,1,500)#
+post = histprior(p,midpt,prior)*dbeta(p,s+1,f+1),from =0,to =1,ylab= "posteirodensity")#
+post = post/sum(post)
+p = seq(0,1,500)#
+post = histprior(p,midpt,prior)*dbeta(p,s+1,f+1)post = post/sum(post)
+p = seq(0,1,500)#
+post = histprior(p,midpt,prior)*dbeta(p,s+1,f+1)#
+post = post/sum(post)
+p
+ps = sample(p, replace = TRUE ,prob = post)
+p=seq(.05,.95,.1)#
+prior= c(1,5.2,8,7.2,4.6,2.1,.7,.1,0,0)#
+prior= prior/sum(prior)#
+m= 20;ys= 0:20#
+pred = pdiscp(p,prior,m,ys)#
+round(cbind(0:20,pred),3)
+ab = c(3.26,7.19)
+m= 20, ys = 0:20
+ab = c(3.26,7.19)#
+m= 20, ys = 0:20#
+pred = pbetap(ab,m,ys)#
+round(cbind(0:20,pred),3)
+plot(ys,pred)
+plot(ys,pred,type= "h")
+p = rbeta(1000,3.26,7.19)#
+y = rbinom(1000,20,p)#
+table(y)
+freq = table(y)
+ys = as.integer(names(freq))
+predprob = freq/sum(freq)
+?ebinom
+?rbinom
+library(nls)
+library(nlme)
+nls
+P=matrix(c(.5,.5,0,0,0,0,.25,.5,.25,0,0,0,0,.25,.5,.25,0,0,#
+           0,0,.25,.5,.25,0,0,0,0,.25,.5,.25,0,0,0,0,.5,.5),#
+           nrow=6,ncol=6,byrow=TRUE)#
+ P
+s=array(0,c(50000,1))
+s[1]=3
+for (j in 2:50000)#
+   s[j]=sample(1:6,size=1,prob=P[s[j-1],])
+m=c(500,2000,8000,50000)
+for (i in 1:4)#
+   print(table(s[1:m[i]])/m[i])#
+#
+ w=matrix(c(.1,.2,.2,.2,.2,.1),nrow=1,ncol=6)
+w%*%P
+w
+P
+w%*P
+w*P
+w%*%P
+sd(c(5,8,12))
+which.min(c(4,1,6))
+?which.min
+ml <- read.csv("music_list.csv",header=T)
+ml
+source("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpZOADdA/filef03b6d1b4d66")#
+unlink("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpZOADdA/filef03b6d1b4d66")
+ml
+source("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpZOADdA/filef03b174a9dd1")#
+unlink("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpZOADdA/filef03b174a9dd1")
+source("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpZOADdA/filef03b224894a7")#
+unlink("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpZOADdA/filef03b224894a7")
+source("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpZOADdA/filef03b4b177186")#
+unlink("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpZOADdA/filef03b4b177186")
+source("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpZOADdA/filef03b6ac98a6")#
+unlink("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpZOADdA/filef03b6ac98a6")
+source("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpZOADdA/filef03b5eb60efc")#
+unlink("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpZOADdA/filef03b5eb60efc")
+source("/Users/kosukefukui/djlog/networkplot_all.R")
+ml
+source("/Users/kosukefukui/djlog/networkplot_all.R")
+source("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmphOPCk7/file5221b8e3079")#
+unlink("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmphOPCk7/file5221b8e3079")
+source("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmphOPCk7/file52214106611")#
+unlink("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmphOPCk7/file52214106611")
+source("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmphOPCk7/file522409cf061")#
+unlink("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmphOPCk7/file522409cf061")
+source("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmphOPCk7/file5227f69916a")#
+unlink("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmphOPCk7/file5227f69916a")
+source("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmphOPCk7/file5226bba3028")#
+unlink("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmphOPCk7/file5226bba3028")
+source("/Users/kosukefukui/djlog/networkplot_all.R")
+source("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpSXaKkG/file82052a37d13")#
+unlink("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpSXaKkG/file82052a37d13")
+source("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpSXaKkG/file8207e180c27")#
+unlink("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpSXaKkG/file8207e180c27")
+source("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpSXaKkG/file8202b8acd3e")#
+unlink("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpSXaKkG/file8202b8acd3e")
+source("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpSXaKkG/file8203337f5f2")#
+unlink("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpSXaKkG/file8203337f5f2")
+source("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpSXaKkG/file820114db4bb")#
+unlink("/var/folders/p7/tm6hzl9x15g3bwd0x0t79q2c0000gn/T//RtmpSXaKkG/file820114db4bb")
+setwd("/Users/kosukefukui/djlog")#
+ml <- read.csv("music_list_all.csv")#
+ml#
+library(igraph)#
+library(tcltk2)#
+ai.net <- graph.data.frame(ml,directed=F) #
+#png(filename="setlist_all.png", width=2000, height=1600)#
+tkplot(ai.net, vertex.size = 3,vertex.label.cex = 1.0,layout=layout.fruchterman.reingold)#
+#dev.off()
+source("/Users/kosukefukui/djlog/networkplot_all.R")
+setwd("/Users/kosukefukui/djlog")#
+ml <- read.csv("music_list_all.csv")#
+ml#
+library(igraph)#
+ai.net <- graph.data.frame(ml,directed=F)
+ai.net
